@@ -10,7 +10,7 @@
 
 - [Cours et TP sur Git](https://github.com/adermont/cours/blob/main/git/cours_git.md)
 
-- [Cours d'informatique générale](https://github.com/adermont/accenture2023/tree/main/informatique)
+- [Cours d'informatique générale](https://github.com/adermont/cours/tree/main/informatique)
 
 - [Cours de Java](https://github.com/adermont/cours/tree/main/java)
 
