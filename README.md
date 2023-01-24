@@ -6,18 +6,34 @@
    `cd <votre_repertoire_de_projets>`  
    `git clone git@github.com:adermont/accenture2023.git`  
    
-   - Importez le projet 'binomotron' dans IntelliJ
+   - Importez le projet 'accenture2023/binomotron' dans IntelliJ
 
 - [Cours et TP sur Git](https://github.com/adermont/cours/blob/main/git/cours_git.md)
 
-- [Cours d'informatique générale](https://github.com/adermont/cours/tree/main/informatique)
+- [Cours d'informatique générale](https://github.com/adermont/cours/tree/main/informatique) :
+   - [La numération, savoir compter en binaire/hexa](https://github.com/adermont/cours/blob/main/informatique/01_num%C3%A9ration.md)
+   - [Le fonctionnement d'un ordinateur](https://github.com/adermont/cours/blob/main/informatique/02_ordinateur.md)
+   - [Le système de fichiers](https://github.com/adermont/cours/blob/main/informatique/03_syst%C3%A8me_de_fichiers.md)
+   - [Le système d'exploitation](https://github.com/adermont/cours/blob/main/informatique/04_syst%C3%A8me_d_exploitation.md)
 
-- [Cours de Java](https://github.com/adermont/cours/tree/main/java)
+- [Cours d'algorithmique](https://github.com/adermont/cours/blob/main/informatique/memo_algorithmique.pdf)
 
-- Outils d'organisation (créez-vous un compte et testez-les !) :
+- [Cours de Java](https://github.com/adermont/cours/tree/main/java) :
+   - [Introduction](https://github.com/adermont/cours/blob/main/java/01_introduction.md)
+   - [La syntaxe du langage](https://github.com/adermont/cours/blob/main/java/02_syntaxe_et_op%C3%A9rateurs.md)
+   - [Les opérateurs](https://github.com/adermont/cours/blob/main/java/03_op%C3%A9rateurs.md)
+   - [Les structures de contrôle](https://github.com/adermont/cours/blob/main/java/04_structures_de_contr%C3%B4le.md)
+   - [Les méthodes/fonctions](https://github.com/adermont/cours/blob/main/java/05_m%C3%A9thodes.md)
+   - [Les interfaces graphiques](https://github.com/adermont/cours/blob/main/java/06_javafx.md)
+
+- Outils d'organisation et de prise de notes (créez-vous un compte et testez-les !) :
 
    - [Notion](https://www.notion.so/fr-fr)  
    - [Trello](https://trello.com/fr)  
+
+- Outils pour faire vos maquettes d'applications :
+   - [Figma](https://www.figma.com/fr/)
+   - [Gluon SceneBuilder](https://gluonhq.com/products/scene-builder/)
 
 - Au sujet de la veille informatique :
 
