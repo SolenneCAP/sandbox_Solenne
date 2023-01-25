@@ -9,6 +9,8 @@
    - Importez le projet 'accenture2023/binomotron' dans IntelliJ
 
 - [Cours et TP sur Git](https://github.com/adermont/cours/blob/main/git/cours_git.md)
+   - [Quelques explications sur GitHub](https://docs.github.com/fr/pages/quickstart)
+   - Un [TD intéressant](http://defeo.lu/in202/tutorials/tutorial3/) sur Git et GitHub
 
 - [Cours d'informatique générale](https://github.com/adermont/cours/tree/main/informatique) :
    - [La numération, savoir compter en binaire/hexa](https://github.com/adermont/cours/blob/main/informatique/01_num%C3%A9ration.md)
@@ -16,7 +18,7 @@
    - [Le système de fichiers](https://github.com/adermont/cours/blob/main/informatique/03_syst%C3%A8me_de_fichiers.md)
    - [Le système d'exploitation](https://github.com/adermont/cours/blob/main/informatique/04_syst%C3%A8me_d_exploitation.md)
 
-- [Cours d'algorithmique](https://github.com/adermont/cours/blob/main/informatique/memo_algorithmique.pdf)
+- [Cours d'algorithmique (PDF)](https://github.com/adermont/cours/blob/main/informatique/memo_algorithmique.pdf)
 
 - [Cours de Java](https://github.com/adermont/cours/tree/main/java) :
    - [Introduction](https://github.com/adermont/cours/blob/main/java/01_introduction.md)
@@ -25,6 +27,14 @@
    - [Les structures de contrôle](https://github.com/adermont/cours/blob/main/java/04_structures_de_contr%C3%B4le.md)
    - [Les méthodes/fonctions](https://github.com/adermont/cours/blob/main/java/05_m%C3%A9thodes.md)
    - [Les interfaces graphiques](https://github.com/adermont/cours/blob/main/java/06_javafx.md)
+   - [La javadoc](https://github.com/adermont/cours/blob/main/java/07_javadoc.md)
+
+- Cours de Java niveau avancé :
+   - Quand vous serez à l'aise avec les bases ci-dessus, allez consulter 
+   l'excellente formation [CS-108](https://cs108.epfl.ch/archive/22/archive.html) 
+   pour voir l'étendue de ce qu'il est possible de faire en Java.
+   Vous verrez par exemple un autre cours sur [JavaFX](https://cs108.epfl.ch/archive/22/c/JAFX/JAFX-notes.html)
+   qui reste simple tout en étant plus complet.
 
 - Outils d'organisation et de prise de notes (créez-vous un compte et testez-les !) :
 
