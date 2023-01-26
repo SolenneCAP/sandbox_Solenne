@@ -2,7 +2,7 @@
 
 - Pour importer le corrigé du projet projet [binomotron](https://github.com/adermont/accenture2023/tree/main/binomotron) sur votre machine :
 
-   - Dans un terminal **Git Bash**, lancez les commandes suivantes (en remplaçant \$NOM_UTILISATEUR\$ par votre nom d'utilisateur Windows :
+   - Dans un terminal **Git Bash**, lancez les commandes suivantes (en remplaçant **`$NOM_UTILISATEUR$`** par votre nom d'utilisateur Windows :
    
 	`$ cd /c/Users/$NOM_UTILISATEUR$/IdeaProjects`  
 	`$ mkdir accenture2023`  
