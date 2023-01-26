@@ -32,6 +32,7 @@
 
    - [Introduction](https://github.com/adermont/cours/blob/main/java/01_introduction.md)
    - [La syntaxe du langage](https://github.com/adermont/cours/blob/main/java/02_syntaxe_et_op%C3%A9rateurs.md)
+   - [Les tableaux](https://github.com/adermont/cours/blob/main/java/03_tableaux.md)
    - [Les opérateurs](https://github.com/adermont/cours/blob/main/java/03_op%C3%A9rateurs.md)
    - [Les structures de contrôle](https://github.com/adermont/cours/blob/main/java/04_structures_de_contr%C3%B4le.md)
    - [Les méthodes/fonctions](https://github.com/adermont/cours/blob/main/java/05_m%C3%A9thodes.md)
