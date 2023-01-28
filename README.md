@@ -1,21 +1,30 @@
 # Promotion Accenture 2023
 
-- Pour importer le corrigé du projet projet [binomotron](https://github.com/adermont/accenture2023/tree/main/binomotron) sur votre machine :
+- Pour importer le corrigé du [binomotron](https://github.com/adermont/accenture2023/tree/main/binomotron) sur votre machine :
 
    - Dans un terminal **Git Bash**, lancez les commandes suivantes (en remplaçant **`$NOM_UTILISATEUR$`** par votre nom d'utilisateur Windows :
    
-	`$ cd /c/Users/$NOM_UTILISATEUR$/IdeaProjects`  
-	`$ mkdir accenture2023`  
-	`$ cd accenture2023`  
-	`$ git clone git@github.com:adermont/accenture2023.git`  
+	>`$ cd /c/Users/$NOM_UTILISATEUR$/IdeaProjects`
+	
+	Si vous n'avez pas de dossier "accenture2023", créez-le avec la commande 
+	`mkdir` comme ceci :
+	>`$ mkdir accenture2023`  
+	>`$ cd accenture2023`  
+	
+	Clonez le repository :
+	>`$ git clone git@github.com:adermont/accenture2023.git`  
    
-   - Dans IntelliJ, ouvrez le projet `accenture2023/binomotron`
+   - Dans IntelliJ :
+      - Ouvrez le projet `accenture2023/binomotron`
+	  - Observez la première version de la branche `main`
+	  - Changez de branche avec le menu `Git > Branches...` puis sélectionnez `binomotron-v2 > Checkout`
 
 ## Git & GitHub
 
    - [Cours Git](https://github.com/adermont/cours/blob/main/git/cours_git.md)
    - [Bien démarrer sur GitHub](https://docs.github.com/fr/pages/quickstart)
-   - Un [TD intéressant](http://defeo.lu/in202/tutorials/tutorial3/) sur Git et GitHub
+   - [Un TD intéressant](http://defeo.lu/in202/tutorials/tutorial3/) sur Git et GitHub
+   - [Le format Markdown](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) (fichiers `README.md` et `*.md`)
 
 ## Informatique générale
 
@@ -49,19 +58,25 @@
 
 ## Outils 
 
-- Organisation et de prise de notes (créez-vous un compte et testez-les !) :
+- Pour mieux apprendre :
+   - [ChatGPT](https://chat.openai.com) (pour vous renseigner sur le vocabulaire et les concepts clés en informatique)
+   - [CheatSheets](https://cheatography.com/)
+   
+- Organisation et de prise de notes (testez-les !) :
 
    - [Notion](https://www.notion.so/fr-fr)  
    - [Trello](https://trello.com/fr)  
 
-- Outils pour faire vos maquettes d'applications :
-   - [Figma](https://www.figma.com/fr/)
+- Pour faire des maquettes :
+
+   - [Figma](https://www.figma.com/fr/) (pour des maquettes dynamiques en wireframe, ne génère pas de code)
       - Tuto : [https://grafikart.fr/tutoriels/figma-presentation-1203](https://grafikart.fr/tutoriels/figma-presentation-1203)
-   - [Gluon SceneBuilder](https://gluonhq.com/products/scene-builder/)
+   - [Gluon SceneBuilder](https://gluonhq.com/products/scene-builder/) (pour des maquettes en JavaFX, permet de générer du code)
 
-- Outil pour le Markdown
+- Pour augmenter les capacités du Markdown :
 
-   - Mermaid (pour créer des graphes au format texte) : [https://mermaid.live/](https://mermaid.live/)
+   - [Mermaid](https://mermaid.live/) (pour créer des graphes au format texte)
+
 
 ## Veille informatique :
 

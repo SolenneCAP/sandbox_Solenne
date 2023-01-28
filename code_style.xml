@@ -1,0 +1,7 @@
+<code_scheme name="Default" version="173">
+  <option name="ENABLE_SECOND_REFORMAT" value="true" />
+  <codeStyleSettings language="JAVA">
+    <option name="METHOD_BRACE_STYLE" value="2" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+  </codeStyleSettings>
+</code_scheme>
