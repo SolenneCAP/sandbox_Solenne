@@ -1,5 +1,10 @@
 # Promotion Accenture 2023
 
+- Pour configurer son IntelliJ, suivre ce [tuto](https://github.com/adermont/cours/tree/main/informatique/intellij_hints.pdf).
+
+- Dans IntelliJ, allez dans `Settings... > Editor > Code Style` et importez le
+fichier suivant pour vos règles de formatage : [code_style.xml](https://github.com/adermont/accenture2023/tree/main/code_style.xml)
+
 - Pour importer le corrigé du [binomotron](https://github.com/adermont/accenture2023/tree/main/binomotron) sur votre machine :
 
    - Dans un terminal **Git Bash**, lancez les commandes suivantes (en remplaçant **`$NOM_UTILISATEUR$`** par votre nom d'utilisateur Windows :
