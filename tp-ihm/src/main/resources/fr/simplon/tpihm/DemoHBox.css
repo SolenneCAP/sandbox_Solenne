@@ -1,0 +1,16 @@
+#button1 {
+    -fx-text-fill: white;
+    -fx-background-color: linear-gradient(#000, #fff);
+    -fx-background-radius:  5;
+    -fx-border-radius: 5;
+}
+#button1:hover {
+    -fx-background-color: linear-gradient(#000, #ddd);
+}
+#button1:armed {
+    -fx-text-fill: black;
+    -fx-background-color: -fx-shadow-highlight-color, -fx-outer-border, -fx-inner-border, #ddd;
+}
+#button1:focused {
+    -fx-border-color: #00e;
+}

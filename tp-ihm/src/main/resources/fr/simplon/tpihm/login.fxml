@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Scene?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.stage.Stage?>
+
+<Stage xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fr.simplon.tpihm.LoginController">
+    <scene>
+        <Scene>
+            <AnchorPane prefHeight="200" prefWidth="258.0">
+            <children>
+               <Label layoutX="37.0" layoutY="56.0" text="Login" />
+               <Label layoutX="17.0" layoutY="83.0" text="Password" />
+               <TextField fx:id="mTextLogin" layoutX="87.0" layoutY="52.0" />
+               <TextField layoutX="87.0" layoutY="79.0" />
+               <Button fx:id="mButtonConnect" layoutX="176.0" layoutY="130.0" mnemonicParsing="false" onAction="#onButtonConnectAction" text="Connect" />
+               <Label fx:id="mLabelWelcome" layoutX="17.0" layoutY="21.0" text="Welcome" />
+            </children></AnchorPane>
+        </Scene>
+    </scene>
+</Stage>
