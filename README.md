@@ -53,6 +53,15 @@ fichier suivant pour vos règles de formatage : [code_style.xml](https://github.
    - [Les interfaces graphiques](https://github.com/adermont/cours/blob/main/java/06_javafx.md)
    - [La javadoc](https://github.com/adermont/cours/blob/main/java/07_javadoc.md)
 
+## Programmation Orientée Objet
+
+   - [Introduction](https://github.com/adermont/cours/blob/main/java/08_poo.md)
+   - [L'identité des objets](https://github.com/adermont/cours/blob/main/java/08_poo_identite.md)
+   - [L'encapsulation](https://github.com/adermont/cours/blob/main/java/08_poo_encapsulation.md)
+   - [L'envoi de messages](https://github.com/adermont/cours/blob/main/java/08_poo_envoi_messages.md)
+   - [L'héritage](https://github.com/adermont/cours/blob/main/java/08_poo_heritage.md)
+   - [Le polymorphisme](https://github.com/adermont/cours/blob/main/java/08_poo_polymorphisme.md)
+
 ## Cours de Java niveau avancé
 
    - Quand vous serez à l'aise avec les bases ci-dessus, allez consulter 
