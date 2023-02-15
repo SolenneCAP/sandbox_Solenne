@@ -61,6 +61,9 @@ fichier suivant pour vos règles de formatage : [code_style.xml](https://github.
    - [L'envoi de messages](https://github.com/adermont/cours/blob/main/java/08_poo_envoi_messages.md)
    - [L'héritage](https://github.com/adermont/cours/blob/main/java/08_poo_heritage.md)
    - [Le polymorphisme](https://github.com/adermont/cours/blob/main/java/08_poo_polymorphisme.md)
+   
+   - [Les constructeurs](https://github.com/adermont/cours/blob/main/java/09_poo_constructeur.md)
+   - [Les enums et les constantes](https://github.com/adermont/cours/blob/main/java/09_poo_constantes_et_enums.md)
 
 ## Cours de Java niveau avancé
 
