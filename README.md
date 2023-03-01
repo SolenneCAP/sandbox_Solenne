@@ -53,7 +53,7 @@ fichier suivant pour vos règles de formatage : [code_style.xml](https://github.
    - [Les interfaces graphiques](https://github.com/adermont/cours/blob/main/java/06_javafx.md)
    - [La javadoc](https://github.com/adermont/cours/blob/main/java/07_javadoc.md)
 
-## Programmation Orientée Objet
+## Programmation Orientée Objet avec Java
 
    - [Introduction](https://github.com/adermont/cours/blob/main/java/08_poo.md)
    - [L'identité des objets](https://github.com/adermont/cours/blob/main/java/08_poo_identite.md)
@@ -61,7 +61,6 @@ fichier suivant pour vos règles de formatage : [code_style.xml](https://github.
    - [L'envoi de messages](https://github.com/adermont/cours/blob/main/java/08_poo_envoi_messages.md)
    - [L'héritage](https://github.com/adermont/cours/blob/main/java/08_poo_heritage.md)
    - [Le polymorphisme](https://github.com/adermont/cours/blob/main/java/08_poo_polymorphisme.md)
-   
    - [Les constructeurs](https://github.com/adermont/cours/blob/main/java/09_poo_constructeur.md)
    - [Les enums et les constantes](https://github.com/adermont/cours/blob/main/java/09_poo_constantes_et_enums.md)
 
@@ -70,8 +69,11 @@ fichier suivant pour vos règles de formatage : [code_style.xml](https://github.
    - Quand vous serez à l'aise avec les bases ci-dessus, allez consulter 
    l'excellente formation [CS-108](https://cs108.epfl.ch/archive/22/archive.html) 
    pour voir l'étendue de ce qu'il est possible de faire en Java.
-   Vous verrez par exemple un autre cours sur [JavaFX](https://cs108.epfl.ch/archive/22/c/JAFX/JAFX-notes.html)
-   qui reste simple tout en étant plus complet.
+   Vous y verrez aussi un autre cours sur [JavaFX](https://cs108.epfl.ch/archive/22/c/JAFX/JAFX-notes.html).
+
+## Modélisation
+
+	- [Modéliser un système avec la technique DDD](https://github.com/adermont/cours/blob/main/java/10_coo.md)
 
 ## Outils 
 
