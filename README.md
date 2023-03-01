@@ -73,7 +73,7 @@ fichier suivant pour vos règles de formatage : [code_style.xml](https://github.
 
 ## Modélisation
 
-	- [Modéliser un système avec la technique DDD](https://github.com/adermont/cours/blob/main/java/10_coo.md)
+   - [Modéliser un système avec la technique DDD](https://github.com/adermont/cours/blob/main/java/10_coo.md)
 
 ## Outils 
 
