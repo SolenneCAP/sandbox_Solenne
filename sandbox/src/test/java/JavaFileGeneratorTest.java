@@ -1,4 +1,4 @@
-package fr.simplon.sandbox;
+import fr.simplon.sandbox.JavaFileGenerator;
 
 import java.io.File;
 import java.io.IOException;
