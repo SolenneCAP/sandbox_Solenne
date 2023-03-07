@@ -15,7 +15,7 @@ import java.util.Optional;
 
 public class UserServices
 {
-    public static final String TABLE_NAME = "user";
+    public static final String TABLE_NAME = "aprennants";
 
     private Database mDatabase;
 
@@ -34,7 +34,7 @@ public class UserServices
         List<User> result = new ArrayList<>();
         try (Connection connection = mDatabase.getConnection())
         {
-            PreparedStatement statement = connection.prepareStatement("SELECT id, login, prenom, nom, id_role FROM " + TABLE_NAME);
+            PreparedStatement statement = connection.prepareStatement("SELECT id, mail, prenom, nom FROM " + TABLE_NAME);
             ResultSet resultSet = statement.executeQuery();
             while (resultSet.next())
             {
@@ -43,9 +43,8 @@ public class UserServices
                 String login = resultSet.getString(i++);
                 String prenom = resultSet.getString(i++);
                 String nom = resultSet.getString(i++);
-                int idRole = resultSet.getInt(i++);
-                Optional<Role> optionalRole = Arrays.stream(Role.values()).filter(r -> r.ordinal() == idRole).findAny();
-                User user = new User(id, login, prenom, nom, optionalRole.orElse(Role.Apprenant));
+
+                User user = new User(id, login, prenom, nom, Role.Apprenant);
                 result.add(user);
             }
         }
